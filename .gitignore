@@ -1,0 +1,25 @@
+# Visual Studio build artifacts
+.vs/
+x64/
+Debug/
+Release/
+lab6/
+*.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.recipe
+*.dat
+
+# Temporary helper scripts and documents
+*.docx
+*.py
+*.html
